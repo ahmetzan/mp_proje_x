@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
 
         public class ahmet
         {
-
+            Merhaba Ben ahmet
         }
 
         public class fatih
